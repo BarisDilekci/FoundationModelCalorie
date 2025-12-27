@@ -11,6 +11,7 @@ import SwiftUI
 struct FoundationModelCalorieApp: App {
     var body: some Scene {
         WindowGroup {
+            // The main entry view of the application
             ContentView()
         }
     }
