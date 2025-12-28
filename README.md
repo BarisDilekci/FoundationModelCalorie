@@ -9,13 +9,6 @@
 - **Simple & Clean UI**: Built with SwiftUI for a modern and responsive user experience.
 - **Offline/On-Device Inference**: (Depending on the model used) potential for privacy-focused local processing.
 
-## Screenshots
-
-<!-- Add screenshots here -->
-<p align="center">
-  <img src="path/to/screenshot1.png" width="300" alt="Home Screen">
-  <img src="path/to/screenshot2.png" width="300" alt="Add Meal Screen">
-</p>
 
 ## Requirements
 
