@@ -10,11 +10,6 @@
 - **Offline/On-Device Inference**: (Depending on the model used) potential for privacy-focused local processing.
 
 
-## Requirements
-
-- iOS 17.0+
-- Xcode 15.0+
-- Swift 5.9+
 
 ## Installation
 
